@@ -1,0 +1,6 @@
+title: Northfield Runtime Symposium 2027
+description: Programme and proceedings
+baseurl: ""
+collections:
+  proceedings:
+    output: true
